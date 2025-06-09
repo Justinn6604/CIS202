@@ -1,6 +1,6 @@
 /*
     File: main.cpp
-    Description: 
+    Description: This program sorts pizza orders by size, name, and price using lambda functions.
     Author: Justin Nakoud
     Email: Justinn6604@student.vvc.edu
     Course#: CIS202
